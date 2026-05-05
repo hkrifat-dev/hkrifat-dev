@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Rifat
 
-<!--
-**hkrifat-dev/hkrifat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma CST Student  
+💻 Learning Python, Java, C++  
+🔐 Interested in Cybersecurity & AI  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python 🐍  
+- Java ☕  
+- C++ 💻  
+- Networking 🌐  
+- Cybersecurity 🔐  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+- Improving coding skills  
+- Building small projects  
+- Learning security basics  
+
+## 📫 Contact
+- Email: hkrifat.info@gmail.com
